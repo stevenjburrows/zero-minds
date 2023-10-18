@@ -81,7 +81,7 @@ Run the project:
 npm run dev
 ```
 
-Now create a branch using the `git checkout -b` command:
+Now create a branch using the `git checkout -b` command: 
 
 ```
 git checkout -b your-new-branch-name
